@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        NUXT
+        vue2-videojs
       </h1>
       <h2 class="subtitle">
-        Universal Vue.js Application
+        Vue.js component wrapper for Video.js
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
